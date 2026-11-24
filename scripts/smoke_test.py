@@ -29,7 +29,7 @@ def main():
                         '-t', '8', '-ac', '2', str(audio)], check=True)
         job = {'title': 'Synthetic test', 'fps': 60, 'music': str(audio), 'music_start': .1,
                'total_frames': 360, 'intro_frames': 120, 'fade_seconds': 2.814375,
-               'logo_boundaries': [0, 17, 34, 51, 68, 85, 102, 120], 'assets_dir': str(assets),
+               'logo_boundaries': [0, 17, 34, 51, 68, 85, 102, 120], 'assets_dir': str(assets), 'scratch_root': str(folder/'scratch'),
                'sources': {'test': {'path': str(source)}},
                'shots': [{'source': 'test', 'anchor': .8 + i * .8, 'frames': 30, 'event_id': f'test-{i}',
                           'kind': 'combat', 'reviewed': True} for i in range(8)]}

@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
 """Render visually reviewed 60fps shots, SELECTS and a portable Premiere plan."""
 import argparse
+import atexit
 import json
 import re
 import shutil
 import subprocess
 from pathlib import Path
 from check_job import validate
+from cache_tools import create_owned, track
 
 STAGES = ['3.55', '7', '12', '18', '24', '30', '37']
+
+
+def track_if_present(path):
+    if Path(path).is_dir():
+        track(path)
 
 
 def render(job_path, release, ffmpeg):
@@ -36,7 +43,8 @@ def render(job_path, release, ffmpeg):
     folders = {name: release / 'Media' / name for name in ['01 Sources', '02 Graphics', '03 Music', '04 References', '05 Prepared clips']}
     for path in folders.values():
         path.mkdir(parents=True, exist_ok=True)
-    scratch = release / '_scratch'; scratch.mkdir()
+    scratch = create_owned(Path(job.get('scratch_root', Path.home()/'.codex/standoff-tiktok-editor/scratch')), 'scratch')
+    atexit.register(track_if_present, scratch)
     def ff(*args):
         subprocess.run([ffmpeg, '-v', 'error', '-nostdin', '-y', *map(str, args)], check=True)
     def concat(pieces, output, label):
@@ -107,7 +115,8 @@ def render(job_path, release, ffmpeg):
     (release / 'premiere-plan.json').write_text(json.dumps(plan, ensure_ascii=False, indent=2), encoding='utf-8')
     (release / 'Used episodes.json').write_text(json.dumps(audit, ensure_ascii=False, indent=2), encoding='utf-8')
     (release / 'Job validation.json').write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f'Ready: {cursor} gameplay frames. Scratch retained for QA; build Premiere next.')
+    track(scratch)
+    print(f'Ready: {cursor} gameplay frames. Registered scratch retained for QA: {scratch}. Build Premiere next.')
 
 
 def main():
