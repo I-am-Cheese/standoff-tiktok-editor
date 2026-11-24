@@ -1,0 +1,6545 @@
+{
+  "format": 1,
+  "description": "Historical timing evidence; not a new user source library or fresh job. No raw media or private Drive IDs.",
+  "source_ids": "Stable anonymized identifiers shared across historical releases.",
+  "releases": [
+    {
+      "release": "02 - EXIT POVOD - FULL",
+      "music": "ALISHER вЂ” РџРћР’РћР”",
+      "introFrames": 223,
+      "totalFrames": 1814,
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 73.49000000000001,
+          "sourceEnd": 73.64000000000001,
+          "frames": 9,
+          "anchor": 73.59,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 13.967,
+          "sourceEnd": 14.217,
+          "frames": 15,
+          "anchor": 14.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 101.76696666666666,
+          "sourceEnd": 102.0503,
+          "frames": 17,
+          "anchor": 102.0003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 145.58366666666666,
+          "sourceEnd": 145.81699999999998,
+          "frames": 14,
+          "anchor": 145.767,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 183.83363333333335,
+          "sourceEnd": 184.05030000000002,
+          "frames": 13,
+          "anchor": 184.0003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 209.16696666666667,
+          "sourceEnd": 209.4503,
+          "frames": 17,
+          "anchor": 209.4003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 34.516666666666666,
+          "sourceEnd": 34.699999999999996,
+          "frames": 11,
+          "anchor": 34.65,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 16.100333333333335,
+          "sourceEnd": 16.417,
+          "frames": 19,
+          "anchor": 16.367,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 103.9003,
+          "sourceEnd": 104.05030000000001,
+          "frames": 9,
+          "anchor": 104.0003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 146.93366666666668,
+          "sourceEnd": 147.217,
+          "frames": 17,
+          "anchor": 147.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 184.45033333333333,
+          "sourceEnd": 184.617,
+          "frames": 10,
+          "anchor": 184.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 105.77333333333333,
+          "sourceEnd": 105.99,
+          "frames": 13,
+          "anchor": 105.94,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 211.167,
+          "sourceEnd": 211.417,
+          "frames": 15,
+          "anchor": 211.367,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 19.9503,
+          "sourceEnd": 20.2503,
+          "frames": 18,
+          "anchor": 20.2003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 104.13363333333334,
+          "sourceEnd": 104.4503,
+          "frames": 19,
+          "anchor": 104.4003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 151.00033333333332,
+          "sourceEnd": 151.31699999999998,
+          "frames": 19,
+          "anchor": 151.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 186.00036666666668,
+          "sourceEnd": 186.2837,
+          "frames": 17,
+          "anchor": 186.2337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 39.43333333333333,
+          "sourceEnd": 39.599999999999994,
+          "frames": 10,
+          "anchor": 39.55,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 213.0003,
+          "sourceEnd": 213.2503,
+          "frames": 15,
+          "anchor": 213.2003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 24.733633333333334,
+          "sourceEnd": 24.9503,
+          "frames": 13,
+          "anchor": 24.9003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 107.28363333333333,
+          "sourceEnd": 107.5503,
+          "frames": 16,
+          "anchor": 107.5003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 152.4503,
+          "sourceEnd": 152.6503,
+          "frames": 12,
+          "anchor": 152.6003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 188.05033333333333,
+          "sourceEnd": 188.317,
+          "frames": 16,
+          "anchor": 188.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 128.74666666666667,
+          "sourceEnd": 128.93,
+          "frames": 11,
+          "anchor": 128.88,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 217.50033333333334,
+          "sourceEnd": 217.717,
+          "frames": 13,
+          "anchor": 217.667,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 25.383666666666667,
+          "sourceEnd": 25.617,
+          "frames": 14,
+          "anchor": 25.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 107.76703333333333,
+          "sourceEnd": 107.9837,
+          "frames": 13,
+          "anchor": 107.9337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 153.6503,
+          "sourceEnd": 153.9503,
+          "frames": 18,
+          "anchor": 153.9003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 46.26666666666667,
+          "sourceEnd": 46.50000000000001,
+          "frames": 14,
+          "anchor": 46.45,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 188.90036666666668,
+          "sourceEnd": 189.08370000000002,
+          "frames": 11,
+          "anchor": 189.0337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 218.2336666666667,
+          "sourceEnd": 218.51700000000002,
+          "frames": 17,
+          "anchor": 218.467,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 31.683666666666667,
+          "sourceEnd": 31.917,
+          "frames": 14,
+          "anchor": 31.867,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 108.81696666666666,
+          "sourceEnd": 109.0503,
+          "frames": 14,
+          "anchor": 109.0003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 154.50036666666668,
+          "sourceEnd": 154.68370000000002,
+          "frames": 11,
+          "anchor": 154.6337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 77.83,
+          "sourceEnd": 78.08,
+          "frames": 15,
+          "anchor": 78.03,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 189.7003,
+          "sourceEnd": 189.9503,
+          "frames": 15,
+          "anchor": 189.9003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 219.88366666666667,
+          "sourceEnd": 220.117,
+          "frames": 14,
+          "anchor": 220.067,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 36.18363333333333,
+          "sourceEnd": 36.3503,
+          "frames": 10,
+          "anchor": 36.3003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 109.4837,
+          "sourceEnd": 109.7837,
+          "frames": 18,
+          "anchor": 109.7337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 27.96666666666667,
+          "sourceEnd": 28.150000000000002,
+          "frames": 11,
+          "anchor": 28.1,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 155.33363333333332,
+          "sourceEnd": 155.6503,
+          "frames": 19,
+          "anchor": 155.6003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 191.91696666666667,
+          "sourceEnd": 192.1503,
+          "frames": 14,
+          "anchor": 192.1003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 228.08366666666666,
+          "sourceEnd": 228.31699999999998,
+          "frames": 14,
+          "anchor": 228.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 49.45036666666667,
+          "sourceEnd": 49.5837,
+          "frames": 8,
+          "anchor": 49.5337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 112.31696666666666,
+          "sourceEnd": 112.5503,
+          "frames": 14,
+          "anchor": 112.5003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 158.42333333333335,
+          "sourceEnd": 158.64000000000001,
+          "frames": 13,
+          "anchor": 158.59,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 155.96703333333332,
+          "sourceEnd": 156.28369999999998,
+          "frames": 19,
+          "anchor": 156.2337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 193.45033333333333,
+          "sourceEnd": 193.617,
+          "frames": 10,
+          "anchor": 193.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 260.71703333333335,
+          "sourceEnd": 260.9837,
+          "frames": 16,
+          "anchor": 260.9337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 60.36696666666667,
+          "sourceEnd": 60.5503,
+          "frames": 11,
+          "anchor": 60.5003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 124.5003,
+          "sourceEnd": 124.7503,
+          "frames": 15,
+          "anchor": 124.7003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 48.333333333333336,
+          "sourceEnd": 48.550000000000004,
+          "frames": 13,
+          "anchor": 48.5,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 157.36700000000002,
+          "sourceEnd": 157.61700000000002,
+          "frames": 15,
+          "anchor": 157.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 195.75029999999998,
+          "sourceEnd": 195.95029999999997,
+          "frames": 12,
+          "anchor": 195.9003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 261.83363333333335,
+          "sourceEnd": 262.1503,
+          "frames": 19,
+          "anchor": 262.1003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 61.1837,
+          "sourceEnd": 61.383700000000005,
+          "frames": 12,
+          "anchor": 61.3337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 210.3466666666667,
+          "sourceEnd": 210.63000000000002,
+          "frames": 17,
+          "anchor": 210.58,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 127.08366666666667,
+          "sourceEnd": 127.21700000000001,
+          "frames": 8,
+          "anchor": 127.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 157.90033333333332,
+          "sourceEnd": 158.21699999999998,
+          "frames": 19,
+          "anchor": 158.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 196.6337,
+          "sourceEnd": 196.7837,
+          "frames": 9,
+          "anchor": 196.7337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 264.3503666666667,
+          "sourceEnd": 264.5837,
+          "frames": 14,
+          "anchor": 264.5337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 80.26703333333333,
+          "sourceEnd": 80.4837,
+          "frames": 13,
+          "anchor": 80.4337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 41.71666666666667,
+          "sourceEnd": 41.95,
+          "frames": 14,
+          "anchor": 41.9,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 129.05036666666666,
+          "sourceEnd": 129.28369999999998,
+          "frames": 14,
+          "anchor": 129.2337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 159.70036666666667,
+          "sourceEnd": 159.9837,
+          "frames": 17,
+          "anchor": 159.9337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 198.16696666666667,
+          "sourceEnd": 198.3503,
+          "frames": 11,
+          "anchor": 198.3003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 271.3337,
+          "sourceEnd": 271.5837,
+          "frames": 15,
+          "anchor": 271.5337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 80.88366666666666,
+          "sourceEnd": 81.11699999999999,
+          "frames": 14,
+          "anchor": 81.067,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 106.47666666666666,
+          "sourceEnd": 106.71,
+          "frames": 14,
+          "anchor": 106.66,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 129.817,
+          "sourceEnd": 130.017,
+          "frames": 12,
+          "anchor": 129.967,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 160.0837,
+          "sourceEnd": 160.3837,
+          "frames": 18,
+          "anchor": 160.3337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 200.55033333333333,
+          "sourceEnd": 200.71699999999998,
+          "frames": 10,
+          "anchor": 200.667,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 276.06696666666664,
+          "sourceEnd": 276.3503,
+          "frames": 17,
+          "anchor": 276.3003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 74,
+          "sourceStart": 48.86666666666667,
+          "sourceEnd": 49.05,
+          "frames": 11,
+          "anchor": 49.0,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 75,
+          "sourceStart": 83.66703333333332,
+          "sourceEnd": 83.88369999999999,
+          "frames": 13,
+          "anchor": 83.8337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 76,
+          "sourceStart": 132.41696666666667,
+          "sourceEnd": 132.6503,
+          "frames": 14,
+          "anchor": 132.6003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 77,
+          "sourceStart": 161.68366666666668,
+          "sourceEnd": 162.01700000000002,
+          "frames": 20,
+          "anchor": 161.967,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 78,
+          "sourceStart": 201.43366666666668,
+          "sourceEnd": 201.61700000000002,
+          "frames": 11,
+          "anchor": 201.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 79,
+          "sourceStart": 276.71703333333335,
+          "sourceEnd": 276.9837,
+          "frames": 16,
+          "anchor": 276.9337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 80,
+          "sourceStart": 233.51000000000002,
+          "sourceEnd": 233.66000000000003,
+          "frames": 9,
+          "anchor": 233.61,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 81,
+          "sourceStart": 95.00033333333333,
+          "sourceEnd": 95.317,
+          "frames": 19,
+          "anchor": 95.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 82,
+          "sourceStart": 133.5003,
+          "sourceEnd": 133.65030000000002,
+          "frames": 9,
+          "anchor": 133.6003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 83,
+          "sourceStart": 165.30033333333333,
+          "sourceEnd": 165.617,
+          "frames": 19,
+          "anchor": 165.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 84,
+          "sourceStart": 202.06703333333334,
+          "sourceEnd": 202.2837,
+          "frames": 13,
+          "anchor": 202.2337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 85,
+          "sourceStart": 280.61696666666666,
+          "sourceEnd": 280.8503,
+          "frames": 14,
+          "anchor": 280.8003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 86,
+          "sourceStart": 234.93,
+          "sourceEnd": 235.08,
+          "frames": 9,
+          "anchor": 235.03,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 87,
+          "sourceStart": 95.8503,
+          "sourceEnd": 96.1503,
+          "frames": 18,
+          "anchor": 96.1003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 88,
+          "sourceStart": 136.2003,
+          "sourceEnd": 136.3503,
+          "frames": 9,
+          "anchor": 136.3003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 89,
+          "sourceStart": 169.88366666666667,
+          "sourceEnd": 170.217,
+          "frames": 20,
+          "anchor": 170.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 90,
+          "sourceStart": 204.95033333333333,
+          "sourceEnd": 205.117,
+          "frames": 10,
+          "anchor": 205.067,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 91,
+          "sourceStart": 45.71666666666667,
+          "sourceEnd": 45.9,
+          "frames": 11,
+          "anchor": 45.85,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 92,
+          "sourceStart": 284.4503,
+          "sourceEnd": 284.75030000000004,
+          "frames": 18,
+          "anchor": 284.7003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 93,
+          "sourceStart": 97.06703333333333,
+          "sourceEnd": 97.2837,
+          "frames": 13,
+          "anchor": 97.2337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 94,
+          "sourceStart": 137.10036666666667,
+          "sourceEnd": 137.2837,
+          "frames": 11,
+          "anchor": 137.2337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 95,
+          "sourceStart": 171.2337,
+          "sourceEnd": 171.4837,
+          "frames": 15,
+          "anchor": 171.4337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 96,
+          "sourceStart": 205.86703333333335,
+          "sourceEnd": 206.08370000000002,
+          "frames": 13,
+          "anchor": 206.0337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 97,
+          "sourceStart": 106.88666666666667,
+          "sourceEnd": 107.17,
+          "frames": 17,
+          "anchor": 107.12,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 98,
+          "sourceStart": 287.83366666666666,
+          "sourceEnd": 288.117,
+          "frames": 17,
+          "anchor": 288.067,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 99,
+          "sourceStart": 97.71696666666666,
+          "sourceEnd": 97.8503,
+          "frames": 8,
+          "anchor": 97.8003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 100,
+          "sourceStart": 142.01696666666666,
+          "sourceEnd": 142.25029999999998,
+          "frames": 14,
+          "anchor": 142.2003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 101,
+          "sourceStart": 173.10033333333334,
+          "sourceEnd": 173.317,
+          "frames": 13,
+          "anchor": 173.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 102,
+          "sourceStart": 129.34666666666666,
+          "sourceEnd": 129.57999999999998,
+          "frames": 14,
+          "anchor": 129.53,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 103,
+          "sourceStart": 207.1003333333333,
+          "sourceEnd": 207.41699999999997,
+          "frames": 19,
+          "anchor": 207.367,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 104,
+          "sourceStart": 292.25030000000004,
+          "sourceEnd": 292.4503,
+          "frames": 12,
+          "anchor": 292.4003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 105,
+          "sourceStart": 99.61703333333332,
+          "sourceEnd": 99.88369999999999,
+          "frames": 16,
+          "anchor": 99.8337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 106,
+          "sourceStart": 144.08366666666666,
+          "sourceEnd": 144.21699999999998,
+          "frames": 8,
+          "anchor": 144.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 107,
+          "sourceStart": 175.0003,
+          "sourceEnd": 175.2503,
+          "frames": 15,
+          "anchor": 175.2003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 108,
+          "sourceStart": 46.78333333333333,
+          "sourceEnd": 47.05,
+          "frames": 16,
+          "anchor": 47.0,
+          "file": "source-008.mp4"
+        },
+        {
+          "slot": 109,
+          "sourceStart": 208.13366666666667,
+          "sourceEnd": 208.317,
+          "frames": 11,
+          "anchor": 208.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 110,
+          "sourceStart": 292.56696666666664,
+          "sourceEnd": 292.8503,
+          "frames": 17,
+          "anchor": 292.8003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 111,
+          "sourceStart": 100.45036666666667,
+          "sourceEnd": 100.6837,
+          "frames": 14,
+          "anchor": 100.6337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 112,
+          "sourceStart": 145.15033333333332,
+          "sourceEnd": 145.417,
+          "frames": 16,
+          "anchor": 145.367,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 113,
+          "sourceStart": 181.71703333333332,
+          "sourceEnd": 181.88369999999998,
+          "frames": 10,
+          "anchor": 181.8337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 114,
+          "sourceStart": 235.18,
+          "sourceEnd": 235.38,
+          "frames": 12,
+          "anchor": 235.33,
+          "file": "source-008.mp4"
+        }
+      ]
+    },
+    {
+      "release": "03 - EXIT CUPSIZE",
+      "music": "CUPSIZE вЂ” С‚С‹ Р»СЋР±РёС€СЊ С‚Р°РЅС†РµРІР°С‚СЊ",
+      "musicStart": 26.68,
+      "musicEnd": 59.947,
+      "introFrames": 211,
+      "totalFrames": 1996,
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 44.61703333333333,
+          "sourceEnd": 44.8837,
+          "frames": 16,
+          "anchor": 44.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 301.45033333333333,
+          "sourceEnd": 301.717,
+          "frames": 16,
+          "anchor": 301.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 559.3170333333333,
+          "sourceEnd": 559.5836999999999,
+          "frames": 16,
+          "anchor": 559.5337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 616.0002999999999,
+          "sourceEnd": 616.2502999999999,
+          "frames": 15,
+          "anchor": 616.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 663.7170333333333,
+          "sourceEnd": 663.9837,
+          "frames": 16,
+          "anchor": 663.9337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 47.48363333333333,
+          "sourceEnd": 47.750299999999996,
+          "frames": 16,
+          "anchor": 47.7003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 304.00030000000004,
+          "sourceEnd": 304.25030000000004,
+          "frames": 15,
+          "anchor": 304.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 561.9836333333333,
+          "sourceEnd": 562.2502999999999,
+          "frames": 16,
+          "anchor": 562.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 616.6170333333333,
+          "sourceEnd": 616.8837,
+          "frames": 16,
+          "anchor": 616.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 664.9503333333333,
+          "sourceEnd": 665.217,
+          "frames": 16,
+          "anchor": 665.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 48.467,
+          "sourceEnd": 48.717,
+          "frames": 15,
+          "anchor": 48.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 330.6503333333334,
+          "sourceEnd": 330.91700000000003,
+          "frames": 16,
+          "anchor": 330.867,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 563.0003666666667,
+          "sourceEnd": 563.2837,
+          "frames": 17,
+          "anchor": 563.2337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 620.1337,
+          "sourceEnd": 620.3837,
+          "frames": 15,
+          "anchor": 620.3337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 675.3336999999999,
+          "sourceEnd": 675.5836999999999,
+          "frames": 15,
+          "anchor": 675.5337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 50.817033333333335,
+          "sourceEnd": 51.0837,
+          "frames": 16,
+          "anchor": 51.0337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 335.91703333333334,
+          "sourceEnd": 336.1837,
+          "frames": 16,
+          "anchor": 336.1337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 563.7836333333333,
+          "sourceEnd": 564.0503,
+          "frames": 16,
+          "anchor": 564.0003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 625.9503333333333,
+          "sourceEnd": 626.217,
+          "frames": 16,
+          "anchor": 626.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 680.467,
+          "sourceEnd": 680.717,
+          "frames": 15,
+          "anchor": 680.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 52.20036666666667,
+          "sourceEnd": 52.4837,
+          "frames": 17,
+          "anchor": 52.4337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 340.6003,
+          "sourceEnd": 340.8503,
+          "frames": 15,
+          "anchor": 340.8003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 578.6337,
+          "sourceEnd": 578.8837,
+          "frames": 15,
+          "anchor": 578.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 627.5503333333334,
+          "sourceEnd": 627.817,
+          "frames": 16,
+          "anchor": 627.767,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 682.8170333333333,
+          "sourceEnd": 683.0836999999999,
+          "frames": 16,
+          "anchor": 683.0337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 54.25033333333333,
+          "sourceEnd": 54.516999999999996,
+          "frames": 16,
+          "anchor": 54.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 341.95033333333333,
+          "sourceEnd": 342.217,
+          "frames": 16,
+          "anchor": 342.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 581.0002999999999,
+          "sourceEnd": 581.2502999999999,
+          "frames": 15,
+          "anchor": 581.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 629.1669666666667,
+          "sourceEnd": 629.4503,
+          "frames": 17,
+          "anchor": 629.4003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 684.2669999999999,
+          "sourceEnd": 684.5169999999999,
+          "frames": 15,
+          "anchor": 684.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 57.000299999999996,
+          "sourceEnd": 57.250299999999996,
+          "frames": 15,
+          "anchor": 57.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 377.96703333333335,
+          "sourceEnd": 378.2837,
+          "frames": 19,
+          "anchor": 378.2337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 584.5336333333333,
+          "sourceEnd": 584.7503,
+          "frames": 13,
+          "anchor": 584.7003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 630.9837,
+          "sourceEnd": 631.2837,
+          "frames": 18,
+          "anchor": 631.2337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 686.2336333333334,
+          "sourceEnd": 686.4503000000001,
+          "frames": 13,
+          "anchor": 686.4003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 70.66696666666667,
+          "sourceEnd": 70.9503,
+          "frames": 17,
+          "anchor": 70.9003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 382.41703333333334,
+          "sourceEnd": 382.6837,
+          "frames": 16,
+          "anchor": 382.6337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 584.9836333333333,
+          "sourceEnd": 585.2502999999999,
+          "frames": 16,
+          "anchor": 585.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 632.6170333333333,
+          "sourceEnd": 632.8837,
+          "frames": 16,
+          "anchor": 632.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 687.9170333333333,
+          "sourceEnd": 688.1836999999999,
+          "frames": 16,
+          "anchor": 688.1337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 77.967,
+          "sourceEnd": 78.217,
+          "frames": 15,
+          "anchor": 78.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 391.1170333333334,
+          "sourceEnd": 391.38370000000003,
+          "frames": 16,
+          "anchor": 391.3337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 587.7503333333333,
+          "sourceEnd": 588.0169999999999,
+          "frames": 16,
+          "anchor": 587.967,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 635.1836333333333,
+          "sourceEnd": 635.4503,
+          "frames": 16,
+          "anchor": 635.4003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 689.6503333333333,
+          "sourceEnd": 689.9169999999999,
+          "frames": 16,
+          "anchor": 689.867,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 88.9337,
+          "sourceEnd": 89.1837,
+          "frames": 15,
+          "anchor": 89.1337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 391.6503333333334,
+          "sourceEnd": 391.91700000000003,
+          "frames": 16,
+          "anchor": 391.867,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 590.1170333333333,
+          "sourceEnd": 590.3837,
+          "frames": 16,
+          "anchor": 590.3337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 636.2503333333333,
+          "sourceEnd": 636.5169999999999,
+          "frames": 16,
+          "anchor": 636.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 693.7337,
+          "sourceEnd": 693.9837,
+          "frames": 15,
+          "anchor": 693.9337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 89.98363333333333,
+          "sourceEnd": 90.2503,
+          "frames": 16,
+          "anchor": 90.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 396.25033333333334,
+          "sourceEnd": 396.517,
+          "frames": 16,
+          "anchor": 396.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 590.5836333333333,
+          "sourceEnd": 590.8503,
+          "frames": 16,
+          "anchor": 590.8003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 637.0836333333333,
+          "sourceEnd": 637.3503,
+          "frames": 16,
+          "anchor": 637.3003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 694.8336999999999,
+          "sourceEnd": 695.0836999999999,
+          "frames": 15,
+          "anchor": 695.0337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 114.48363333333333,
+          "sourceEnd": 114.7503,
+          "frames": 16,
+          "anchor": 114.7003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 406.95033333333333,
+          "sourceEnd": 407.217,
+          "frames": 16,
+          "anchor": 407.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 594.3836333333333,
+          "sourceEnd": 594.6502999999999,
+          "frames": 16,
+          "anchor": 594.6003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 638.8836666666667,
+          "sourceEnd": 639.1170000000001,
+          "frames": 14,
+          "anchor": 639.067,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 698.6669666666667,
+          "sourceEnd": 698.9503,
+          "frames": 17,
+          "anchor": 698.9003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 121.31703333333333,
+          "sourceEnd": 121.5837,
+          "frames": 16,
+          "anchor": 121.5337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 413.6503333333334,
+          "sourceEnd": 413.91700000000003,
+          "frames": 16,
+          "anchor": 413.867,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 597.0836333333333,
+          "sourceEnd": 597.3503,
+          "frames": 16,
+          "anchor": 597.3003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 639.5170333333333,
+          "sourceEnd": 639.7837,
+          "frames": 16,
+          "anchor": 639.7337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 699.4336999999999,
+          "sourceEnd": 699.6836999999999,
+          "frames": 15,
+          "anchor": 699.6337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 237.25033333333334,
+          "sourceEnd": 237.51700000000002,
+          "frames": 16,
+          "anchor": 237.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 423.85033333333337,
+          "sourceEnd": 424.117,
+          "frames": 16,
+          "anchor": 424.067,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 598.4503333333333,
+          "sourceEnd": 598.717,
+          "frames": 16,
+          "anchor": 598.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 646.5337,
+          "sourceEnd": 646.7837,
+          "frames": 15,
+          "anchor": 646.7337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 702.0003666666667,
+          "sourceEnd": 702.2837,
+          "frames": 17,
+          "anchor": 702.2337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 265.5337,
+          "sourceEnd": 265.7837,
+          "frames": 15,
+          "anchor": 265.7337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 424.81703333333337,
+          "sourceEnd": 425.0837,
+          "frames": 16,
+          "anchor": 425.0337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 599.5170333333333,
+          "sourceEnd": 599.7837,
+          "frames": 16,
+          "anchor": 599.7337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 74,
+          "sourceStart": 647.2669999999999,
+          "sourceEnd": 647.5169999999999,
+          "frames": 15,
+          "anchor": 647.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 75,
+          "sourceStart": 703.0836333333333,
+          "sourceEnd": 703.3503,
+          "frames": 16,
+          "anchor": 703.3003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 76,
+          "sourceStart": 282.1503333333334,
+          "sourceEnd": 282.41700000000003,
+          "frames": 16,
+          "anchor": 282.367,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 77,
+          "sourceStart": 478.6170333333334,
+          "sourceEnd": 478.88370000000003,
+          "frames": 16,
+          "anchor": 478.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 78,
+          "sourceStart": 600.5503333333334,
+          "sourceEnd": 600.817,
+          "frames": 16,
+          "anchor": 600.767,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 79,
+          "sourceStart": 647.8003,
+          "sourceEnd": 648.0503,
+          "frames": 15,
+          "anchor": 648.0003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 80,
+          "sourceStart": 707.6170333333333,
+          "sourceEnd": 707.8837,
+          "frames": 16,
+          "anchor": 707.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 81,
+          "sourceStart": 282.6170333333334,
+          "sourceEnd": 282.88370000000003,
+          "frames": 16,
+          "anchor": 282.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 82,
+          "sourceStart": 546.6170333333333,
+          "sourceEnd": 546.8837,
+          "frames": 16,
+          "anchor": 546.8337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 83,
+          "sourceStart": 603.8336999999999,
+          "sourceEnd": 604.0836999999999,
+          "frames": 15,
+          "anchor": 604.0337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 84,
+          "sourceStart": 650.9503333333333,
+          "sourceEnd": 651.217,
+          "frames": 16,
+          "anchor": 651.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 85,
+          "sourceStart": 708.6503333333333,
+          "sourceEnd": 708.9169999999999,
+          "frames": 16,
+          "anchor": 708.867,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 86,
+          "sourceStart": 284.85033333333337,
+          "sourceEnd": 285.117,
+          "frames": 16,
+          "anchor": 285.067,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 87,
+          "sourceStart": 548.4503333333333,
+          "sourceEnd": 548.717,
+          "frames": 16,
+          "anchor": 548.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 88,
+          "sourceStart": 604.467,
+          "sourceEnd": 604.717,
+          "frames": 15,
+          "anchor": 604.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 89,
+          "sourceStart": 653.3170333333333,
+          "sourceEnd": 653.5836999999999,
+          "frames": 16,
+          "anchor": 653.5337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 90,
+          "sourceStart": 711.3170333333333,
+          "sourceEnd": 711.5836999999999,
+          "frames": 16,
+          "anchor": 711.5337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 91,
+          "sourceStart": 288.75033333333334,
+          "sourceEnd": 289.017,
+          "frames": 16,
+          "anchor": 288.967,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 92,
+          "sourceStart": 548.9503333333333,
+          "sourceEnd": 549.217,
+          "frames": 16,
+          "anchor": 549.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 93,
+          "sourceStart": 607.367,
+          "sourceEnd": 607.617,
+          "frames": 15,
+          "anchor": 607.567,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 94,
+          "sourceStart": 656.8503333333333,
+          "sourceEnd": 657.117,
+          "frames": 16,
+          "anchor": 657.067,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 95,
+          "sourceStart": 726.8836333333333,
+          "sourceEnd": 727.1502999999999,
+          "frames": 16,
+          "anchor": 727.1003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 96,
+          "sourceStart": 292.28363333333334,
+          "sourceEnd": 292.5503,
+          "frames": 16,
+          "anchor": 292.5003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 97,
+          "sourceStart": 552.3503333333333,
+          "sourceEnd": 552.617,
+          "frames": 16,
+          "anchor": 552.567,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 98,
+          "sourceStart": 607.8003,
+          "sourceEnd": 608.0503,
+          "frames": 15,
+          "anchor": 608.0003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 99,
+          "sourceStart": 658.4170333333333,
+          "sourceEnd": 658.6836999999999,
+          "frames": 16,
+          "anchor": 658.6337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 100,
+          "sourceStart": 727.9170333333333,
+          "sourceEnd": 728.1836999999999,
+          "frames": 16,
+          "anchor": 728.1337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 101,
+          "sourceStart": 293.95033333333333,
+          "sourceEnd": 294.217,
+          "frames": 16,
+          "anchor": 294.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 102,
+          "sourceStart": 555.1503333333333,
+          "sourceEnd": 555.4169999999999,
+          "frames": 16,
+          "anchor": 555.367,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 103,
+          "sourceStart": 611.2003,
+          "sourceEnd": 611.4503,
+          "frames": 15,
+          "anchor": 611.4003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 104,
+          "sourceStart": 660.1503333333333,
+          "sourceEnd": 660.4169999999999,
+          "frames": 16,
+          "anchor": 660.367,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 105,
+          "sourceStart": 730.3836333333333,
+          "sourceEnd": 730.6502999999999,
+          "frames": 16,
+          "anchor": 730.6003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 106,
+          "sourceStart": 294.9836333333334,
+          "sourceEnd": 295.25030000000004,
+          "frames": 16,
+          "anchor": 295.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 107,
+          "sourceStart": 555.9836666666667,
+          "sourceEnd": 556.2170000000001,
+          "frames": 14,
+          "anchor": 556.167,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 108,
+          "sourceStart": 611.9669666666666,
+          "sourceEnd": 612.2502999999999,
+          "frames": 17,
+          "anchor": 612.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 109,
+          "sourceStart": 661.4503333333333,
+          "sourceEnd": 661.717,
+          "frames": 16,
+          "anchor": 661.667,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 110,
+          "sourceStart": 733.5170333333333,
+          "sourceEnd": 733.7837,
+          "frames": 16,
+          "anchor": 733.7337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 111,
+          "sourceStart": 298.71703333333335,
+          "sourceEnd": 298.9837,
+          "frames": 16,
+          "anchor": 298.9337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 112,
+          "sourceStart": 557.1337,
+          "sourceEnd": 557.3837,
+          "frames": 15,
+          "anchor": 557.3337,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 113,
+          "sourceStart": 613.3003666666666,
+          "sourceEnd": 613.5836999999999,
+          "frames": 17,
+          "anchor": 613.5337,
+          "file": "source-002.mp4"
+        }
+      ]
+    },
+    {
+      "release": "04 - EXIT MADK1D",
+      "music": "madk1d вЂ” С‚Р°Рє РїРѕС…СѓР№",
+      "musicStart": 6.68,
+      "musicEnd": 35.08,
+      "supersededBy": "04 - EXIT MADK1D - FIX",
+      "introFrames": 205,
+      "totalFrames": 1704,
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 29.000666666666667,
+          "sourceEnd": 29.384,
+          "frames": 23,
+          "anchor": 29.334,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 272.48400000000004,
+          "sourceEnd": 272.684,
+          "frames": 12,
+          "anchor": 272.634,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 276.3,
+          "sourceEnd": 276.65000000000003,
+          "frames": 21,
+          "anchor": 276.6,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 535.65,
+          "sourceEnd": 536.05,
+          "frames": 24,
+          "anchor": 536.0,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 138.96699999999998,
+          "sourceEnd": 139.31699999999998,
+          "frames": 21,
+          "anchor": 139.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 537.2503,
+          "sourceEnd": 537.4503000000001,
+          "frames": 12,
+          "anchor": 537.4003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 44.166666666666664,
+          "sourceEnd": 44.55,
+          "frames": 23,
+          "anchor": 44.5,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 35.18333333333333,
+          "sourceEnd": 35.55,
+          "frames": 22,
+          "anchor": 35.5,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 323.1503333333333,
+          "sourceEnd": 323.517,
+          "frames": 22,
+          "anchor": 323.467,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 543.1336666666667,
+          "sourceEnd": 543.317,
+          "frames": 11,
+          "anchor": 543.267,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 270.217,
+          "sourceEnd": 270.61699999999996,
+          "frames": 24,
+          "anchor": 270.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 579.5170333333333,
+          "sourceEnd": 579.8837,
+          "frames": 22,
+          "anchor": 579.8337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 60.60066666666666,
+          "sourceEnd": 60.78399999999999,
+          "frames": 11,
+          "anchor": 60.733999999999995,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 52.850333333333325,
+          "sourceEnd": 53.21699999999999,
+          "frames": 22,
+          "anchor": 53.166999999999994,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 37.06666666666666,
+          "sourceEnd": 37.449999999999996,
+          "frames": 23,
+          "anchor": 37.4,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 679.5336666666667,
+          "sourceEnd": 679.917,
+          "frames": 23,
+          "anchor": 679.8670000000001,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 295.50036666666665,
+          "sourceEnd": 295.6837,
+          "frames": 11,
+          "anchor": 295.6337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 643.5170333333333,
+          "sourceEnd": 643.8837,
+          "frames": 22,
+          "anchor": 643.8337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 70.15033333333334,
+          "sourceEnd": 70.517,
+          "frames": 22,
+          "anchor": 70.467,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 64.384,
+          "sourceEnd": 64.784,
+          "frames": 24,
+          "anchor": 64.734,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 84.30066666666666,
+          "sourceEnd": 84.484,
+          "frames": 11,
+          "anchor": 84.434,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 729.9666666666667,
+          "sourceEnd": 730.35,
+          "frames": 23,
+          "anchor": 730.3000000000001,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 104.06696666666667,
+          "sourceEnd": 104.45030000000001,
+          "frames": 23,
+          "anchor": 104.4003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 647.3669666666667,
+          "sourceEnd": 647.5503,
+          "frames": 11,
+          "anchor": 647.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 85.55033333333334,
+          "sourceEnd": 85.917,
+          "frames": 22,
+          "anchor": 85.867,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 100.88333333333334,
+          "sourceEnd": 101.25,
+          "frames": 22,
+          "anchor": 101.2,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 266.0336666666667,
+          "sourceEnd": 266.41700000000003,
+          "frames": 23,
+          "anchor": 266.367,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 752.4666666666667,
+          "sourceEnd": 752.65,
+          "frames": 11,
+          "anchor": 752.6,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 146.01703333333333,
+          "sourceEnd": 146.3837,
+          "frames": 22,
+          "anchor": 146.3337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 656.6336666666666,
+          "sourceEnd": 657.0169999999999,
+          "frames": 23,
+          "anchor": 656.967,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 102.26666666666667,
+          "sourceEnd": 102.65,
+          "frames": 23,
+          "anchor": 102.6,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 126.834,
+          "sourceEnd": 126.98400000000001,
+          "frames": 9,
+          "anchor": 126.934,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 269.8666666666667,
+          "sourceEnd": 270.25,
+          "frames": 23,
+          "anchor": 270.2,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 91.03366666666668,
+          "sourceEnd": 91.41700000000002,
+          "frames": 23,
+          "anchor": 91.367,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 183.3503,
+          "sourceEnd": 183.5503,
+          "frames": 12,
+          "anchor": 183.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 669.8170333333333,
+          "sourceEnd": 670.1836999999999,
+          "frames": 22,
+          "anchor": 670.1337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 140.31733333333332,
+          "sourceEnd": 140.684,
+          "frames": 22,
+          "anchor": 140.634,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 135.90066666666667,
+          "sourceEnd": 136.284,
+          "frames": 23,
+          "anchor": 136.234,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 277.317,
+          "sourceEnd": 277.517,
+          "frames": 12,
+          "anchor": 277.467,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 236.56696666666664,
+          "sourceEnd": 236.95029999999997,
+          "frames": 23,
+          "anchor": 236.9003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 206.18363333333335,
+          "sourceEnd": 206.55030000000002,
+          "frames": 22,
+          "anchor": 206.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 694.3669666666666,
+          "sourceEnd": 694.7502999999999,
+          "frames": 23,
+          "anchor": 694.7003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 186.41733333333332,
+          "sourceEnd": 186.58399999999997,
+          "frames": 10,
+          "anchor": 186.534,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 141.63366666666664,
+          "sourceEnd": 142.01699999999997,
+          "frames": 23,
+          "anchor": 141.96699999999998,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 402.3833333333333,
+          "sourceEnd": 402.75,
+          "frames": 22,
+          "anchor": 402.7,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 335.0669666666667,
+          "sourceEnd": 335.25030000000004,
+          "frames": 11,
+          "anchor": 335.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 209.71703333333335,
+          "sourceEnd": 210.08370000000002,
+          "frames": 22,
+          "anchor": 210.0337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 704.1836999999999,
+          "sourceEnd": 704.5836999999999,
+          "frames": 24,
+          "anchor": 704.5337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 192.88333333333333,
+          "sourceEnd": 193.25,
+          "frames": 22,
+          "anchor": 193.2,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 149.10066666666668,
+          "sourceEnd": 149.28400000000002,
+          "frames": 11,
+          "anchor": 149.234,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 426.81699999999995,
+          "sourceEnd": 427.2169999999999,
+          "frames": 24,
+          "anchor": 427.167,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 412.167,
+          "sourceEnd": 412.517,
+          "frames": 21,
+          "anchor": 412.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 234.56696666666664,
+          "sourceEnd": 234.95029999999997,
+          "frames": 23,
+          "anchor": 234.9003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 709.3669666666667,
+          "sourceEnd": 709.5503,
+          "frames": 11,
+          "anchor": 709.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 200.38333333333333,
+          "sourceEnd": 200.75,
+          "frames": 22,
+          "anchor": 200.7,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 177.93366666666665,
+          "sourceEnd": 178.31699999999998,
+          "frames": 23,
+          "anchor": 178.267,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 485.7336666666667,
+          "sourceEnd": 485.91700000000003,
+          "frames": 11,
+          "anchor": 485.867,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 564.4669666666666,
+          "sourceEnd": 564.8503,
+          "frames": 23,
+          "anchor": 564.8003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 248.65033333333335,
+          "sourceEnd": 249.01700000000002,
+          "frames": 22,
+          "anchor": 248.967,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 717.7502999999999,
+          "sourceEnd": 718.1502999999999,
+          "frames": 24,
+          "anchor": 718.1003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 206.83366666666666,
+          "sourceEnd": 207.017,
+          "frames": 11,
+          "anchor": 206.96699999999998,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 201.75033333333334,
+          "sourceEnd": 202.11700000000002,
+          "frames": 22,
+          "anchor": 202.067,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 489.334,
+          "sourceEnd": 489.684,
+          "frames": 21,
+          "anchor": 489.634,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 597.6336666666666,
+          "sourceEnd": 598.0169999999999,
+          "frames": 23,
+          "anchor": 597.967,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 298.9503,
+          "sourceEnd": 299.1503,
+          "frames": 12,
+          "anchor": 299.1003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 733.6503333333333,
+          "sourceEnd": 734.0169999999999,
+          "frames": 22,
+          "anchor": 733.967,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 219.46666666666667,
+          "sourceEnd": 219.85,
+          "frames": 23,
+          "anchor": 219.8,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 248.48399999999998,
+          "sourceEnd": 248.68399999999997,
+          "frames": 12,
+          "anchor": 248.634,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 495.30033333333336,
+          "sourceEnd": 495.617,
+          "frames": 19,
+          "anchor": 495.567,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 601.917,
+          "sourceEnd": 602.317,
+          "frames": 24,
+          "anchor": 602.267,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 518.1669666666667,
+          "sourceEnd": 518.5503,
+          "frames": 23,
+          "anchor": 518.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 805.2503,
+          "sourceEnd": 805.4503000000001,
+          "frames": 12,
+          "anchor": 805.4003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 260.55033333333336,
+          "sourceEnd": 260.91700000000003,
+          "frames": 22,
+          "anchor": 260.867,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 74,
+          "sourceStart": 255.08333333333334,
+          "sourceEnd": 255.45000000000002,
+          "frames": 22,
+          "anchor": 255.4,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 75,
+          "sourceStart": 523.7336666666666,
+          "sourceEnd": 524.117,
+          "frames": 23,
+          "anchor": 524.067,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 76,
+          "sourceStart": 126.517,
+          "sourceEnd": 126.717,
+          "frames": 12,
+          "anchor": 126.667,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 77,
+          "sourceStart": 529.3837,
+          "sourceEnd": 529.7837,
+          "frames": 24,
+          "anchor": 529.7337,
+          "file": "source-014.mp4"
+        }
+      ]
+    },
+    {
+      "release": "04 - EXIT MADK1D - FIX",
+      "music": "madk1d вЂ” С‚Р°Рє РїРѕС…СѓР№",
+      "musicStart": 6.68,
+      "musicEnd": 35.08,
+      "revisionOf": "04 - EXIT MADK1D",
+      "replacedSlots": [
+        2,
+        6,
+        7,
+        8,
+        15,
+        19,
+        43,
+        49
+      ],
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 29.000666666666667,
+          "sourceEnd": 29.384,
+          "frames": 23,
+          "anchor": 29.334,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 14.017,
+          "sourceEnd": 14.216999999999999,
+          "frames": 12,
+          "anchor": 14.167,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 276.3,
+          "sourceEnd": 276.65000000000003,
+          "frames": 21,
+          "anchor": 276.6,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 535.65,
+          "sourceEnd": 536.05,
+          "frames": 24,
+          "anchor": 536.0,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 138.96699999999998,
+          "sourceEnd": 139.31699999999998,
+          "frames": 21,
+          "anchor": 139.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 101.85029999999999,
+          "sourceEnd": 102.0503,
+          "frames": 12,
+          "anchor": 102.0003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 145.43366666666665,
+          "sourceEnd": 145.81699999999998,
+          "frames": 23,
+          "anchor": 145.767,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 183.68363333333335,
+          "sourceEnd": 184.05030000000002,
+          "frames": 22,
+          "anchor": 184.0003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 323.1503333333333,
+          "sourceEnd": 323.517,
+          "frames": 22,
+          "anchor": 323.467,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 543.1336666666667,
+          "sourceEnd": 543.317,
+          "frames": 11,
+          "anchor": 543.267,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 270.217,
+          "sourceEnd": 270.61699999999996,
+          "frames": 24,
+          "anchor": 270.567,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 579.5170333333333,
+          "sourceEnd": 579.8837,
+          "frames": 22,
+          "anchor": 579.8337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 60.60066666666666,
+          "sourceEnd": 60.78399999999999,
+          "frames": 11,
+          "anchor": 60.733999999999995,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 52.850333333333325,
+          "sourceEnd": 53.21699999999999,
+          "frames": 22,
+          "anchor": 53.166999999999994,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 24.56696666666667,
+          "sourceEnd": 24.950300000000002,
+          "frames": 23,
+          "anchor": 24.9003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 679.5336666666667,
+          "sourceEnd": 679.917,
+          "frames": 23,
+          "anchor": 679.8670000000001,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 295.50036666666665,
+          "sourceEnd": 295.6837,
+          "frames": 11,
+          "anchor": 295.6337,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 643.5170333333333,
+          "sourceEnd": 643.8837,
+          "frames": 22,
+          "anchor": 643.8337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 107.18363333333333,
+          "sourceEnd": 107.5503,
+          "frames": 22,
+          "anchor": 107.5003,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 64.384,
+          "sourceEnd": 64.784,
+          "frames": 24,
+          "anchor": 64.734,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 84.30066666666666,
+          "sourceEnd": 84.484,
+          "frames": 11,
+          "anchor": 84.434,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 729.9666666666667,
+          "sourceEnd": 730.35,
+          "frames": 23,
+          "anchor": 730.3000000000001,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 104.06696666666667,
+          "sourceEnd": 104.45030000000001,
+          "frames": 23,
+          "anchor": 104.4003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 647.3669666666667,
+          "sourceEnd": 647.5503,
+          "frames": 11,
+          "anchor": 647.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 85.55033333333334,
+          "sourceEnd": 85.917,
+          "frames": 22,
+          "anchor": 85.867,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 100.88333333333334,
+          "sourceEnd": 101.25,
+          "frames": 22,
+          "anchor": 101.2,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 266.0336666666667,
+          "sourceEnd": 266.41700000000003,
+          "frames": 23,
+          "anchor": 266.367,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 752.4666666666667,
+          "sourceEnd": 752.65,
+          "frames": 11,
+          "anchor": 752.6,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 146.01703333333333,
+          "sourceEnd": 146.3837,
+          "frames": 22,
+          "anchor": 146.3337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 656.6336666666666,
+          "sourceEnd": 657.0169999999999,
+          "frames": 23,
+          "anchor": 656.967,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 102.26666666666667,
+          "sourceEnd": 102.65,
+          "frames": 23,
+          "anchor": 102.6,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 126.834,
+          "sourceEnd": 126.98400000000001,
+          "frames": 9,
+          "anchor": 126.934,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 269.8666666666667,
+          "sourceEnd": 270.25,
+          "frames": 23,
+          "anchor": 270.2,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 91.03366666666668,
+          "sourceEnd": 91.41700000000002,
+          "frames": 23,
+          "anchor": 91.367,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 183.3503,
+          "sourceEnd": 183.5503,
+          "frames": 12,
+          "anchor": 183.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 669.8170333333333,
+          "sourceEnd": 670.1836999999999,
+          "frames": 22,
+          "anchor": 670.1337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 140.31733333333332,
+          "sourceEnd": 140.684,
+          "frames": 22,
+          "anchor": 140.634,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 135.90066666666667,
+          "sourceEnd": 136.284,
+          "frames": 23,
+          "anchor": 136.234,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 277.317,
+          "sourceEnd": 277.517,
+          "frames": 12,
+          "anchor": 277.467,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 236.56696666666664,
+          "sourceEnd": 236.95029999999997,
+          "frames": 23,
+          "anchor": 236.9003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 206.18363333333335,
+          "sourceEnd": 206.55030000000002,
+          "frames": 22,
+          "anchor": 206.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 694.3669666666666,
+          "sourceEnd": 694.7502999999999,
+          "frames": 23,
+          "anchor": 694.7003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 188.15033333333332,
+          "sourceEnd": 188.31699999999998,
+          "frames": 10,
+          "anchor": 188.267,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 141.63366666666664,
+          "sourceEnd": 142.01699999999997,
+          "frames": 23,
+          "anchor": 141.96699999999998,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 402.3833333333333,
+          "sourceEnd": 402.75,
+          "frames": 22,
+          "anchor": 402.7,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 335.0669666666667,
+          "sourceEnd": 335.25030000000004,
+          "frames": 11,
+          "anchor": 335.2003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 209.71703333333335,
+          "sourceEnd": 210.08370000000002,
+          "frames": 22,
+          "anchor": 210.0337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 704.1836999999999,
+          "sourceEnd": 704.5836999999999,
+          "frames": 24,
+          "anchor": 704.5337,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 217.35033333333334,
+          "sourceEnd": 217.717,
+          "frames": 22,
+          "anchor": 217.667,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 149.10066666666668,
+          "sourceEnd": 149.28400000000002,
+          "frames": 11,
+          "anchor": 149.234,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 426.81699999999995,
+          "sourceEnd": 427.2169999999999,
+          "frames": 24,
+          "anchor": 427.167,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 412.167,
+          "sourceEnd": 412.517,
+          "frames": 21,
+          "anchor": 412.467,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 234.56696666666664,
+          "sourceEnd": 234.95029999999997,
+          "frames": 23,
+          "anchor": 234.9003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 709.3669666666667,
+          "sourceEnd": 709.5503,
+          "frames": 11,
+          "anchor": 709.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 200.38333333333333,
+          "sourceEnd": 200.75,
+          "frames": 22,
+          "anchor": 200.7,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 177.93366666666665,
+          "sourceEnd": 178.31699999999998,
+          "frames": 23,
+          "anchor": 178.267,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 485.7336666666667,
+          "sourceEnd": 485.91700000000003,
+          "frames": 11,
+          "anchor": 485.867,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 564.4669666666666,
+          "sourceEnd": 564.8503,
+          "frames": 23,
+          "anchor": 564.8003,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 248.65033333333335,
+          "sourceEnd": 249.01700000000002,
+          "frames": 22,
+          "anchor": 248.967,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 717.7502999999999,
+          "sourceEnd": 718.1502999999999,
+          "frames": 24,
+          "anchor": 718.1003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 206.83366666666666,
+          "sourceEnd": 207.017,
+          "frames": 11,
+          "anchor": 206.96699999999998,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 201.75033333333334,
+          "sourceEnd": 202.11700000000002,
+          "frames": 22,
+          "anchor": 202.067,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 489.334,
+          "sourceEnd": 489.684,
+          "frames": 21,
+          "anchor": 489.634,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 597.6336666666666,
+          "sourceEnd": 598.0169999999999,
+          "frames": 23,
+          "anchor": 597.967,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 298.9503,
+          "sourceEnd": 299.1503,
+          "frames": 12,
+          "anchor": 299.1003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 733.6503333333333,
+          "sourceEnd": 734.0169999999999,
+          "frames": 22,
+          "anchor": 733.967,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 219.46666666666667,
+          "sourceEnd": 219.85,
+          "frames": 23,
+          "anchor": 219.8,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 248.48399999999998,
+          "sourceEnd": 248.68399999999997,
+          "frames": 12,
+          "anchor": 248.634,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 495.30033333333336,
+          "sourceEnd": 495.617,
+          "frames": 19,
+          "anchor": 495.567,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 601.917,
+          "sourceEnd": 602.317,
+          "frames": 24,
+          "anchor": 602.267,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 518.1669666666667,
+          "sourceEnd": 518.5503,
+          "frames": 23,
+          "anchor": 518.5003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 805.2503,
+          "sourceEnd": 805.4503000000001,
+          "frames": 12,
+          "anchor": 805.4003,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 260.55033333333336,
+          "sourceEnd": 260.91700000000003,
+          "frames": 22,
+          "anchor": 260.867,
+          "file": "source-004.mp4"
+        },
+        {
+          "slot": 74,
+          "sourceStart": 255.08333333333334,
+          "sourceEnd": 255.45000000000002,
+          "frames": 22,
+          "anchor": 255.4,
+          "file": "source-007.mp4"
+        },
+        {
+          "slot": 75,
+          "sourceStart": 523.7336666666666,
+          "sourceEnd": 524.117,
+          "frames": 23,
+          "anchor": 524.067,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 76,
+          "sourceStart": 126.517,
+          "sourceEnd": 126.717,
+          "frames": 12,
+          "anchor": 126.667,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 77,
+          "sourceStart": 529.3837,
+          "sourceEnd": 529.7837,
+          "frames": 24,
+          "anchor": 529.7337,
+          "file": "source-014.mp4"
+        }
+      ],
+      "introFrames": 205,
+      "totalFrames": 1704
+    },
+    {
+      "release": "05 - EXIT RASPYAT",
+      "music": "СЂР°СЃРїСЏС‚СЊ вЂ” РїСЂРµРґРѕСЃС‚Р°РІР»РµРЅРЅС‹Р№ Release - Topic.mp3",
+      "musicStart": 4.664172413793104,
+      "musicEnd": 33.39750574712644,
+      "totalFrames": 1724,
+      "introFrames": 217,
+      "noncombatSlots": [
+        31
+      ],
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 98.18003333333333,
+          "sourceEnd": 98.69669999999999,
+          "anchor": 98.6467,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-009.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 79.46333333333334,
+          "sourceEnd": 79.73,
+          "anchor": 79.68,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 65.73,
+          "sourceEnd": 66.23,
+          "anchor": 66.18,
+          "frames": 30,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 46.97996666666666,
+          "sourceEnd": 47.263299999999994,
+          "anchor": 47.2133,
+          "frames": 17,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 43.83,
+          "sourceEnd": 44.33,
+          "anchor": 44.28,
+          "frames": 30,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 110.76333333333334,
+          "sourceEnd": 111.03,
+          "anchor": 110.98,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-009.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 86.13,
+          "sourceEnd": 86.63,
+          "anchor": 86.58,
+          "frames": 30,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 67.1133,
+          "sourceEnd": 67.66329999999999,
+          "anchor": 67.6133,
+          "frames": 33,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 47.7467,
+          "sourceEnd": 47.9967,
+          "anchor": 47.9467,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 105.81333333333333,
+          "sourceEnd": 106.33,
+          "anchor": 106.28,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 332.56336666666664,
+          "sourceEnd": 332.7967,
+          "anchor": 332.7467,
+          "frames": 14,
+          "kind": "combat",
+          "file": "source-009.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 109.3467,
+          "sourceEnd": 109.8967,
+          "anchor": 109.8467,
+          "frames": 33,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 95.02996666666667,
+          "sourceEnd": 95.2633,
+          "anchor": 95.2133,
+          "frames": 14,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 101.02996666666667,
+          "sourceEnd": 101.5633,
+          "anchor": 101.5133,
+          "frames": 32,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 111.8633,
+          "sourceEnd": 112.3633,
+          "anchor": 112.3133,
+          "frames": 30,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 372.49663333333336,
+          "sourceEnd": 372.7633,
+          "anchor": 372.7133,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-009.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 116.74663333333334,
+          "sourceEnd": 117.2633,
+          "anchor": 117.2133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 95.46333333333334,
+          "sourceEnd": 95.73,
+          "anchor": 95.68,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 128.14663333333334,
+          "sourceEnd": 128.66330000000002,
+          "anchor": 128.6133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 150.01330000000002,
+          "sourceEnd": 150.26330000000002,
+          "anchor": 150.2133,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 148.21333333333334,
+          "sourceEnd": 148.73000000000002,
+          "anchor": 148.68,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 173.67996666666667,
+          "sourceEnd": 173.9633,
+          "anchor": 173.9133,
+          "frames": 17,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 175.8633,
+          "sourceEnd": 176.3633,
+          "anchor": 176.3133,
+          "frames": 30,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 160.04663333333332,
+          "sourceEnd": 160.5633,
+          "anchor": 160.5133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 274.16333333333336,
+          "sourceEnd": 274.43,
+          "anchor": 274.38,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 176.21333333333334,
+          "sourceEnd": 176.73000000000002,
+          "anchor": 176.68,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 178.2467,
+          "sourceEnd": 178.4967,
+          "anchor": 178.4467,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 161.88003333333333,
+          "sourceEnd": 162.3967,
+          "anchor": 162.3467,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 304.19663333333335,
+          "sourceEnd": 304.4633,
+          "anchor": 304.4133,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 261.44666666666666,
+          "sourceEnd": 261.93,
+          "anchor": 261.88,
+          "frames": 29,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 358.31336666666664,
+          "sourceEnd": 358.5967,
+          "anchor": 358.5467,
+          "frames": 17,
+          "kind": "knife",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 204.54663333333332,
+          "sourceEnd": 205.0633,
+          "anchor": 205.0133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 186.49663333333334,
+          "sourceEnd": 186.76330000000002,
+          "anchor": 186.7133,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 305.0133666666667,
+          "sourceEnd": 305.49670000000003,
+          "anchor": 305.4467,
+          "frames": 29,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 268.5133666666666,
+          "sourceEnd": 268.7967,
+          "anchor": 268.7467,
+          "frames": 17,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 208.51333333333332,
+          "sourceEnd": 209.03,
+          "anchor": 208.98,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 187.79663333333332,
+          "sourceEnd": 188.0633,
+          "anchor": 188.0133,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 322.4800333333334,
+          "sourceEnd": 322.99670000000003,
+          "anchor": 322.9467,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 302.68003333333337,
+          "sourceEnd": 303.1967,
+          "anchor": 303.1467,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 253.6467,
+          "sourceEnd": 253.8967,
+          "anchor": 253.8467,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 210.24663333333334,
+          "sourceEnd": 210.76330000000002,
+          "anchor": 210.7133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 328.77996666666667,
+          "sourceEnd": 329.0633,
+          "anchor": 329.0133,
+          "frames": 17,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 303.7967,
+          "sourceEnd": 304.2967,
+          "anchor": 304.2467,
+          "frames": 30,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 279.58003333333335,
+          "sourceEnd": 280.0967,
+          "anchor": 280.0467,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 358.28000000000003,
+          "sourceEnd": 358.53000000000003,
+          "anchor": 358.48,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 347.74663333333336,
+          "sourceEnd": 348.2633,
+          "anchor": 348.2133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 285.0966333333334,
+          "sourceEnd": 285.36330000000004,
+          "anchor": 285.3133,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 359.0466333333334,
+          "sourceEnd": 359.5633,
+          "anchor": 359.5133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 351.2133,
+          "sourceEnd": 351.4633,
+          "anchor": 351.4133,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 310.41333333333336,
+          "sourceEnd": 310.93,
+          "anchor": 310.88,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 394.91333333333336,
+          "sourceEnd": 395.43,
+          "anchor": 395.38,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 405.36333333333334,
+          "sourceEnd": 405.63,
+          "anchor": 405.58,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 312.58003333333335,
+          "sourceEnd": 313.0967,
+          "anchor": 313.0467,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 404.48,
+          "sourceEnd": 404.73,
+          "anchor": 404.68,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 451.91333333333336,
+          "sourceEnd": 452.43,
+          "anchor": 452.38,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 348.24663333333336,
+          "sourceEnd": 348.7633,
+          "anchor": 348.7133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 486.66333333333336,
+          "sourceEnd": 486.93,
+          "anchor": 486.88,
+          "frames": 16,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 370.74663333333336,
+          "sourceEnd": 371.2633,
+          "anchor": 371.2133,
+          "frames": 31,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 513.2133,
+          "sourceEnd": 513.4633,
+          "anchor": 513.4133,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 374.42996666666664,
+          "sourceEnd": 374.9633,
+          "anchor": 374.9133,
+          "frames": 32,
+          "kind": "combat",
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 574.9799999999999,
+          "sourceEnd": 575.2299999999999,
+          "anchor": 575.18,
+          "frames": 15,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 613.0133,
+          "sourceEnd": 613.5632999999999,
+          "anchor": 613.5133,
+          "frames": 33,
+          "kind": "combat",
+          "file": "source-020.mp4"
+        }
+      ]
+    },
+    {
+      "release": "06 - EXIT 8 MILYA",
+      "music": "madk1d - Topic - 8 РјРёР»СЏ.mp3",
+      "musicStart": 0.0,
+      "musicEnd": 28.833333333333332,
+      "totalFrames": 1730,
+      "introFrames": 167,
+      "noncombatSlots": [
+        12
+      ],
+      "supersededBy": "06 - EXIT 8 MILYA - FIX",
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 80.717,
+          "sourceEnd": 81.117,
+          "anchor": 81.067,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 68.51333333333334,
+          "sourceEnd": 68.93,
+          "anchor": 68.88,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 16.213366666666666,
+          "sourceEnd": 16.796699999999998,
+          "anchor": 16.7467,
+          "frames": 35,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 87.59670000000001,
+          "sourceEnd": 87.99670000000002,
+          "anchor": 87.9467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 96.86703333333334,
+          "sourceEnd": 97.28370000000001,
+          "anchor": 97.2337,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 108.03,
+          "sourceEnd": 108.43,
+          "anchor": 108.38,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 55.64666666666666,
+          "sourceEnd": 56.029999999999994,
+          "anchor": 55.98,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 79.4967,
+          "sourceEnd": 79.89670000000001,
+          "anchor": 79.8467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-017.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 103.43363333333333,
+          "sourceEnd": 104.0503,
+          "anchor": 104.0003,
+          "frames": 37,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 180.83,
+          "sourceEnd": 181.23000000000002,
+          "anchor": 181.18,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 62.64666666666666,
+          "sourceEnd": 63.029999999999994,
+          "anchor": 62.98,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 333.93,
+          "sourceEnd": 334.13,
+          "anchor": 334.08,
+          "frames": 12,
+          "kind": "knife",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 132.0503,
+          "sourceEnd": 132.6503,
+          "anchor": 132.6003,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 199.58003333333332,
+          "sourceEnd": 199.99669999999998,
+          "anchor": 199.9467,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 78.9633,
+          "sourceEnd": 79.5633,
+          "anchor": 79.5133,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-024.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 95.7967,
+          "sourceEnd": 96.1967,
+          "anchor": 96.1467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 141.66696666666667,
+          "sourceEnd": 142.2503,
+          "anchor": 142.2003,
+          "frames": 35,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 224.33,
+          "sourceEnd": 224.73000000000002,
+          "anchor": 224.68,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 96.61333333333334,
+          "sourceEnd": 97.23,
+          "anchor": 97.18,
+          "frames": 37,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 152.26696666666666,
+          "sourceEnd": 152.6503,
+          "anchor": 152.6003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 230.63,
+          "sourceEnd": 231.23,
+          "anchor": 231.18,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 126.9633,
+          "sourceEnd": 127.5633,
+          "anchor": 127.5133,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 119.79666666666667,
+          "sourceEnd": 120.23,
+          "anchor": 120.18,
+          "frames": 26,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 159.40036666666666,
+          "sourceEnd": 159.9837,
+          "anchor": 159.9337,
+          "frames": 35,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 235.13003333333333,
+          "sourceEnd": 235.4967,
+          "anchor": 235.4467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 88.64663333333334,
+          "sourceEnd": 89.2633,
+          "anchor": 89.2133,
+          "frames": 37,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-018.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 171.0837,
+          "sourceEnd": 171.4837,
+          "anchor": 171.4337,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 259.69669999999996,
+          "sourceEnd": 260.2967,
+          "anchor": 260.2467,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 149.2967,
+          "sourceEnd": 149.89669999999998,
+          "anchor": 149.8467,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 185.8837,
+          "sourceEnd": 186.2837,
+          "anchor": 186.2337,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 265.74663333333336,
+          "sourceEnd": 266.36330000000004,
+          "anchor": 266.3133,
+          "frames": 37,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 152.04666666666665,
+          "sourceEnd": 152.42999999999998,
+          "anchor": 152.38,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 168.92999999999998,
+          "sourceEnd": 169.52999999999997,
+          "anchor": 169.48,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 195.5503,
+          "sourceEnd": 195.9503,
+          "anchor": 195.9003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 357.22999999999996,
+          "sourceEnd": 357.83,
+          "anchor": 357.78,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 174.08003333333332,
+          "sourceEnd": 174.49669999999998,
+          "anchor": 174.4467,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 207.71699999999998,
+          "sourceEnd": 208.31699999999998,
+          "anchor": 208.267,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 392.31336666666664,
+          "sourceEnd": 392.89669999999995,
+          "anchor": 392.8467,
+          "frames": 35,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 177.3967,
+          "sourceEnd": 177.79670000000002,
+          "anchor": 177.7467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 105.56336666666667,
+          "sourceEnd": 106.1967,
+          "anchor": 106.1467,
+          "frames": 38,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-017.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 86.69663333333334,
+          "sourceEnd": 87.0633,
+          "anchor": 87.0133,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-024.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 217.917,
+          "sourceEnd": 218.517,
+          "anchor": 218.467,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 397.8633,
+          "sourceEnd": 398.26329999999996,
+          "anchor": 398.2133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 200.01333333333335,
+          "sourceEnd": 200.63000000000002,
+          "anchor": 200.58,
+          "frames": 37,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 261.56696666666664,
+          "sourceEnd": 262.15029999999996,
+          "anchor": 262.1003,
+          "frames": 35,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 465.44663333333335,
+          "sourceEnd": 465.86330000000004,
+          "anchor": 465.8133,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 169.99669999999998,
+          "sourceEnd": 170.59669999999997,
+          "anchor": 170.5467,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 239.64666666666665,
+          "sourceEnd": 240.02999999999997,
+          "anchor": 239.98,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 280.2503,
+          "sourceEnd": 280.8503,
+          "anchor": 280.8003,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 469.1633,
+          "sourceEnd": 469.56329999999997,
+          "anchor": 469.5133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 253.1967,
+          "sourceEnd": 253.7967,
+          "anchor": 253.7467,
+          "frames": 36,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 292.45029999999997,
+          "sourceEnd": 292.85029999999995,
+          "anchor": 292.8003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 563.4132999999999,
+          "sourceEnd": 564.0632999999999,
+          "anchor": 564.0133,
+          "frames": 39,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        }
+      ]
+    },
+    {
+      "release": "06 - EXIT 8 MILYA - FIX",
+      "music": "madk1d - Topic - 8 РјРёР»СЏ.mp3",
+      "musicStart": 0.0,
+      "musicEnd": 28.833333333333332,
+      "totalFrames": 1730,
+      "introFrames": 167,
+      "noncombatSlots": [
+        15
+      ],
+      "replaces": "06 - EXIT 8 MILYA",
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 80.66699999999999,
+          "sourceEnd": 81.11699999999999,
+          "anchor": 81.067,
+          "frames": 27,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 68.71333333333332,
+          "sourceEnd": 68.92999999999999,
+          "anchor": 68.88,
+          "frames": 13,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 16.3967,
+          "sourceEnd": 16.796699999999998,
+          "anchor": 16.7467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 79.34666666666668,
+          "sourceEnd": 79.73000000000002,
+          "anchor": 79.68,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 46.863299999999995,
+          "sourceEnd": 47.263299999999994,
+          "anchor": 47.2133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 44.13,
+          "sourceEnd": 44.330000000000005,
+          "anchor": 44.28,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 65.83000000000001,
+          "sourceEnd": 66.23000000000002,
+          "anchor": 66.18,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 96.8837,
+          "sourceEnd": 97.28370000000001,
+          "anchor": 97.2337,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 108.22999999999999,
+          "sourceEnd": 108.42999999999999,
+          "anchor": 108.38,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 87.59670000000001,
+          "sourceEnd": 87.99670000000002,
+          "anchor": 87.9467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 55.629999999999995,
+          "sourceEnd": 56.029999999999994,
+          "anchor": 55.98,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 103.6503,
+          "sourceEnd": 104.05030000000001,
+          "anchor": 104.0003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 98.48003333333332,
+          "sourceEnd": 98.69669999999999,
+          "anchor": 98.6467,
+          "frames": 13,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-009.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 79.17996666666667,
+          "sourceEnd": 79.56330000000001,
+          "anchor": 79.5133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-024.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 333.93,
+          "sourceEnd": 334.13,
+          "anchor": 334.08,
+          "frames": 12,
+          "kind": "knife",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 224.31333333333333,
+          "sourceEnd": 224.73,
+          "anchor": 224.68,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 86.23,
+          "sourceEnd": 86.63000000000001,
+          "anchor": 86.58,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 47.7967,
+          "sourceEnd": 47.996700000000004,
+          "anchor": 47.9467,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 132.2503,
+          "sourceEnd": 132.65030000000002,
+          "anchor": 132.6003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 105.94666666666667,
+          "sourceEnd": 106.33000000000001,
+          "anchor": 106.28,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 67.2633,
+          "sourceEnd": 67.6633,
+          "anchor": 67.6133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 95.7967,
+          "sourceEnd": 96.1967,
+          "anchor": 96.1467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 231.03,
+          "sourceEnd": 231.23,
+          "anchor": 231.18,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 141.8503,
+          "sourceEnd": 142.2503,
+          "anchor": 142.2003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 116.84663333333334,
+          "sourceEnd": 117.26330000000002,
+          "anchor": 117.2133,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 101.17996666666667,
+          "sourceEnd": 101.56330000000001,
+          "anchor": 101.5133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 127.1633,
+          "sourceEnd": 127.56330000000001,
+          "anchor": 127.5133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 152.2503,
+          "sourceEnd": 152.65030000000002,
+          "anchor": 152.6003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 235.2967,
+          "sourceEnd": 235.49669999999998,
+          "anchor": 235.4467,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 96.83000000000001,
+          "sourceEnd": 97.23000000000002,
+          "anchor": 97.18,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 160.1466333333333,
+          "sourceEnd": 160.56329999999997,
+          "anchor": 160.5133,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 94.86330000000001,
+          "sourceEnd": 95.26330000000002,
+          "anchor": 95.2133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 159.61703333333332,
+          "sourceEnd": 159.9837,
+          "anchor": 159.9337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 260.0800333333333,
+          "sourceEnd": 260.29669999999993,
+          "anchor": 260.2467,
+          "frames": 13,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 105.7967,
+          "sourceEnd": 106.1967,
+          "anchor": 106.1467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-017.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 88.86330000000001,
+          "sourceEnd": 89.26330000000002,
+          "anchor": 89.2133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-018.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 171.10036666666664,
+          "sourceEnd": 171.48369999999997,
+          "anchor": 171.4337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 119.81333333333335,
+          "sourceEnd": 120.23000000000002,
+          "anchor": 120.18,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 148.53,
+          "sourceEnd": 148.73,
+          "anchor": 148.68,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 128.26330000000002,
+          "sourceEnd": 128.66330000000002,
+          "anchor": 128.6133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 265.94663333333335,
+          "sourceEnd": 266.36330000000004,
+          "anchor": 266.3133,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 185.8837,
+          "sourceEnd": 186.2837,
+          "anchor": 186.2337,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 162.01336666666666,
+          "sourceEnd": 162.39669999999998,
+          "anchor": 162.3467,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 173.5633,
+          "sourceEnd": 173.9633,
+          "anchor": 173.9133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 285.16330000000005,
+          "sourceEnd": 285.36330000000004,
+          "anchor": 285.3133,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 357.42999999999995,
+          "sourceEnd": 357.8299999999999,
+          "anchor": 357.78,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 195.56696666666664,
+          "sourceEnd": 195.95029999999997,
+          "anchor": 195.9003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 169.09666666666666,
+          "sourceEnd": 169.53,
+          "anchor": 169.48,
+          "frames": 26,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 274.03,
+          "sourceEnd": 274.42999999999995,
+          "anchor": 274.38,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 176.1633,
+          "sourceEnd": 176.36329999999998,
+          "anchor": 176.3133,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 207.93366666666665,
+          "sourceEnd": 208.31699999999998,
+          "anchor": 208.267,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 358.13,
+          "sourceEnd": 358.53,
+          "anchor": 358.48,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 152.03,
+          "sourceEnd": 152.43,
+          "anchor": 152.38,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 110.61333333333334,
+          "sourceEnd": 111.03000000000002,
+          "anchor": 110.98,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-009.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 186.54663333333335,
+          "sourceEnd": 186.76330000000002,
+          "anchor": 186.7133,
+          "frames": 13,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 176.36333333333334,
+          "sourceEnd": 176.73000000000002,
+          "anchor": 176.68,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 218.11700000000002,
+          "sourceEnd": 218.51700000000002,
+          "anchor": 218.467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 86.6633,
+          "sourceEnd": 87.06330000000001,
+          "anchor": 87.0133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-024.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 397.8633,
+          "sourceEnd": 398.26329999999996,
+          "anchor": 398.2133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 405.43,
+          "sourceEnd": 405.63,
+          "anchor": 405.58,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 178.0967,
+          "sourceEnd": 178.4967,
+          "anchor": 178.4467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 261.7503,
+          "sourceEnd": 262.15029999999996,
+          "anchor": 262.1003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 177.38003333333333,
+          "sourceEnd": 177.7967,
+          "anchor": 177.7467,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 347.8799666666667,
+          "sourceEnd": 348.2633,
+          "anchor": 348.2133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 170.1967,
+          "sourceEnd": 170.5967,
+          "anchor": 170.5467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-016.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 280.6503,
+          "sourceEnd": 280.8503,
+          "anchor": 280.8003,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 210.34663333333333,
+          "sourceEnd": 210.7633,
+          "anchor": 210.7133,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-011.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 261.5466666666667,
+          "sourceEnd": 261.93,
+          "anchor": 261.88,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-020.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 305.0967,
+          "sourceEnd": 305.4967,
+          "anchor": 305.4467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-013.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 279.69669999999996,
+          "sourceEnd": 280.09669999999994,
+          "anchor": 280.0467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-022.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 200.43,
+          "sourceEnd": 200.63,
+          "anchor": 200.58,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-005.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 563.6466333333333,
+          "sourceEnd": 564.0632999999999,
+          "anchor": 564.0133,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-015.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 292.4669666666667,
+          "sourceEnd": 292.8503,
+          "anchor": 292.8003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        }
+      ]
+    },
+    {
+      "release": "07 - EXIT PROJECT 1",
+      "music": "С‚РµРјРЅС‹Р№ РїСЂРёРЅС† tewiq - project 1.mp3",
+      "musicStart": 23.45,
+      "musicEnd": 56.0,
+      "totalFrames": 1953,
+      "introFrames": 164,
+      "noncombatSlots": [],
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 25.183666666666667,
+          "sourceEnd": 25.617,
+          "anchor": 25.567,
+          "frames": 26,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 145.03366666666665,
+          "sourceEnd": 145.41699999999997,
+          "anchor": 145.367,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 103.03,
+          "sourceEnd": 103.43,
+          "anchor": 103.38,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 196.40036666666666,
+          "sourceEnd": 196.78369999999998,
+          "anchor": 196.7337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 31.53366666666667,
+          "sourceEnd": 31.917,
+          "anchor": 31.867,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 76.07996666666668,
+          "sourceEnd": 76.46330000000002,
+          "anchor": 76.4133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 145.617,
+          "sourceEnd": 145.81699999999998,
+          "anchor": 145.767,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 197.96696666666665,
+          "sourceEnd": 198.35029999999998,
+          "anchor": 198.3003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 35.966966666666664,
+          "sourceEnd": 36.3503,
+          "anchor": 36.3003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 298.77996666666667,
+          "sourceEnd": 299.1633,
+          "anchor": 299.1133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 146.817,
+          "sourceEnd": 147.217,
+          "anchor": 147.167,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 200.33366666666666,
+          "sourceEnd": 200.71699999999998,
+          "anchor": 200.667,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 402.3799666666667,
+          "sourceEnd": 402.7633,
+          "anchor": 402.7133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 60.16696666666667,
+          "sourceEnd": 60.5503,
+          "anchor": 60.5003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 150.917,
+          "sourceEnd": 151.317,
+          "anchor": 151.267,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 201.25033333333334,
+          "sourceEnd": 201.61700000000002,
+          "anchor": 201.567,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 694.3633,
+          "sourceEnd": 694.7633,
+          "anchor": 694.7133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 61.000366666666665,
+          "sourceEnd": 61.3837,
+          "anchor": 61.3337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 153.56696666666664,
+          "sourceEnd": 153.95029999999997,
+          "anchor": 153.9003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 202.0837,
+          "sourceEnd": 202.28369999999998,
+          "anchor": 202.2337,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 729.9799666666667,
+          "sourceEnd": 730.3633,
+          "anchor": 730.3133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 83.50036666666666,
+          "sourceEnd": 83.8837,
+          "anchor": 83.8337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 154.31703333333334,
+          "sourceEnd": 154.68370000000002,
+          "anchor": 154.6337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 145.98003333333332,
+          "sourceEnd": 146.39669999999998,
+          "anchor": 146.3467,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 204.75033333333334,
+          "sourceEnd": 205.11700000000002,
+          "anchor": 205.067,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 94.95033333333333,
+          "sourceEnd": 95.317,
+          "anchor": 95.267,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 155.23363333333333,
+          "sourceEnd": 155.6503,
+          "anchor": 155.6003,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 82.83000000000001,
+          "sourceEnd": 83.23000000000002,
+          "anchor": 83.18,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 205.70036666666667,
+          "sourceEnd": 206.0837,
+          "anchor": 206.0337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 95.76696666666668,
+          "sourceEnd": 96.15030000000002,
+          "anchor": 96.1003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 529.4133666666667,
+          "sourceEnd": 529.7967,
+          "anchor": 529.7467,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 155.90036666666666,
+          "sourceEnd": 156.28369999999998,
+          "anchor": 156.2337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 207.03366666666665,
+          "sourceEnd": 207.41699999999997,
+          "anchor": 207.367,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 99.68369999999999,
+          "sourceEnd": 99.88369999999999,
+          "anchor": 99.8337,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 157.23366666666666,
+          "sourceEnd": 157.617,
+          "anchor": 157.567,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 426.7633333333333,
+          "sourceEnd": 427.13,
+          "anchor": 427.08,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 209.0503,
+          "sourceEnd": 209.4503,
+          "anchor": 209.4003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 703.03,
+          "sourceEnd": 703.43,
+          "anchor": 703.38,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 101.66696666666667,
+          "sourceEnd": 102.05030000000001,
+          "anchor": 102.0003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 157.83366666666666,
+          "sourceEnd": 158.21699999999998,
+          "anchor": 158.167,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 211.03366666666665,
+          "sourceEnd": 211.41699999999997,
+          "anchor": 211.367,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 107.1503,
+          "sourceEnd": 107.55030000000001,
+          "anchor": 107.5003,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 206.17996666666664,
+          "sourceEnd": 206.56329999999997,
+          "anchor": 206.5133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 161.63366666666667,
+          "sourceEnd": 162.017,
+          "anchor": 161.967,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 212.86696666666666,
+          "sourceEnd": 213.25029999999998,
+          "anchor": 213.2003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 752.1632999999999,
+          "sourceEnd": 752.5632999999999,
+          "anchor": 752.5133,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 107.80036666666666,
+          "sourceEnd": 107.9837,
+          "anchor": 107.9337,
+          "frames": 11,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 165.23366666666666,
+          "sourceEnd": 165.617,
+          "anchor": 165.567,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 217.33366666666666,
+          "sourceEnd": 217.71699999999998,
+          "anchor": 217.667,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 643.4967,
+          "sourceEnd": 643.8967,
+          "anchor": 643.8467,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 108.66696666666667,
+          "sourceEnd": 109.05030000000001,
+          "anchor": 109.0003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 174.86696666666666,
+          "sourceEnd": 175.25029999999998,
+          "anchor": 175.2003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 266.0466666666667,
+          "sourceEnd": 266.43,
+          "anchor": 266.38,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 219.717,
+          "sourceEnd": 220.11700000000002,
+          "anchor": 220.067,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 109.40036666666667,
+          "sourceEnd": 109.78370000000001,
+          "anchor": 109.7337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 181.51703333333333,
+          "sourceEnd": 181.8837,
+          "anchor": 181.8337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 733.63,
+          "sourceEnd": 734.03,
+          "anchor": 733.98,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 264.2003666666667,
+          "sourceEnd": 264.5837,
+          "anchor": 264.5337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 112.16696666666667,
+          "sourceEnd": 112.55030000000001,
+          "anchor": 112.5003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 183.66696666666667,
+          "sourceEnd": 184.0503,
+          "anchor": 184.0003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 489.43,
+          "sourceEnd": 489.63,
+          "anchor": 489.58,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 271.1837,
+          "sourceEnd": 271.58369999999996,
+          "anchor": 271.5337,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 124.36696666666667,
+          "sourceEnd": 124.75030000000001,
+          "anchor": 124.7003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 234.57996666666665,
+          "sourceEnd": 234.96329999999998,
+          "anchor": 234.9133,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 184.23366666666666,
+          "sourceEnd": 184.617,
+          "anchor": 184.567,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 276.6003666666667,
+          "sourceEnd": 276.9837,
+          "anchor": 276.9337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 128.90036666666666,
+          "sourceEnd": 129.28369999999998,
+          "anchor": 129.2337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 269.83003333333335,
+          "sourceEnd": 270.1967,
+          "anchor": 270.1467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 187.93366666666665,
+          "sourceEnd": 188.31699999999998,
+          "anchor": 188.267,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 284.33363333333335,
+          "sourceEnd": 284.75030000000004,
+          "anchor": 284.7003,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 656.5466666666666,
+          "sourceEnd": 656.93,
+          "anchor": 656.88,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 133.26696666666666,
+          "sourceEnd": 133.6503,
+          "anchor": 133.6003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 188.70036666666667,
+          "sourceEnd": 189.0837,
+          "anchor": 189.0337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 74,
+          "sourceStart": 287.91700000000003,
+          "sourceEnd": 288.117,
+          "anchor": 288.067,
+          "frames": 12,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 75,
+          "sourceStart": 135.96696666666665,
+          "sourceEnd": 136.35029999999998,
+          "anchor": 136.3003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 76,
+          "sourceStart": 679.53,
+          "sourceEnd": 679.93,
+          "anchor": 679.88,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-019.mp4"
+        },
+        {
+          "slot": 77,
+          "sourceStart": 189.56696666666664,
+          "sourceEnd": 189.95029999999997,
+          "anchor": 189.9003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 78,
+          "sourceStart": 804.9466666666666,
+          "sourceEnd": 805.3299999999999,
+          "anchor": 805.28,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-014.mp4"
+        },
+        {
+          "slot": 79,
+          "sourceStart": 136.90036666666666,
+          "sourceEnd": 137.28369999999998,
+          "anchor": 137.2337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        },
+        {
+          "slot": 80,
+          "sourceStart": 193.23366666666666,
+          "sourceEnd": 193.617,
+          "anchor": 193.567,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-003.mp4"
+        }
+      ]
+    },
+    {
+      "release": "08 - EXIT OVERDOZ",
+      "music": "РѕРІРµСЂРґРѕР· - С‚С‘РјРЅС‹Р№ РїСЂРёРЅС†.m4a",
+      "musicStart": 3.9,
+      "musicEnd": 33.4,
+      "totalFrames": 1770,
+      "introFrames": 154,
+      "noncombatSlots": [],
+      "fps": 60,
+      "shots": [
+        {
+          "slot": 1,
+          "sourceStart": 44.46703333333333,
+          "sourceEnd": 44.8837,
+          "anchor": 44.8337,
+          "frames": 25,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 2,
+          "sourceStart": 109.08,
+          "sourceEnd": 109.42999999999999,
+          "anchor": 109.38,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 3,
+          "sourceStart": 478.5003666666667,
+          "sourceEnd": 478.88370000000003,
+          "anchor": 478.8337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 4,
+          "sourceStart": 629.1169666666667,
+          "sourceEnd": 629.4503000000001,
+          "anchor": 629.4003,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 5,
+          "sourceStart": 112.03003333333334,
+          "sourceEnd": 112.3967,
+          "anchor": 112.3467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-006.mp4"
+        },
+        {
+          "slot": 6,
+          "sourceStart": 46.26336666666667,
+          "sourceEnd": 46.596700000000006,
+          "anchor": 46.5467,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 7,
+          "sourceStart": 47.4003,
+          "sourceEnd": 47.7503,
+          "anchor": 47.7003,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 8,
+          "sourceStart": 548.8336666666667,
+          "sourceEnd": 549.217,
+          "anchor": 549.167,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 9,
+          "sourceStart": 632.5503666666667,
+          "sourceEnd": 632.8837000000001,
+          "anchor": 632.8337,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 10,
+          "sourceStart": 69.04666666666667,
+          "sourceEnd": 69.43,
+          "anchor": 69.38,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-012.mp4"
+        },
+        {
+          "slot": 11,
+          "sourceStart": 48.367000000000004,
+          "sourceEnd": 48.717000000000006,
+          "anchor": 48.667,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 12,
+          "sourceStart": 370.9300333333333,
+          "sourceEnd": 371.2967,
+          "anchor": 371.2467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 13,
+          "sourceStart": 555.0836666666667,
+          "sourceEnd": 555.417,
+          "anchor": 555.367,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 14,
+          "sourceStart": 80.26333333333334,
+          "sourceEnd": 80.63,
+          "anchor": 80.58,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-021.mp4"
+        },
+        {
+          "slot": 15,
+          "sourceStart": 636.9836333333333,
+          "sourceEnd": 637.3503,
+          "anchor": 637.3003,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 16,
+          "sourceStart": 118.29663333333333,
+          "sourceEnd": 118.66329999999999,
+          "anchor": 118.6133,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 17,
+          "sourceStart": 54.20033333333333,
+          "sourceEnd": 54.517,
+          "anchor": 54.467,
+          "frames": 19,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 18,
+          "sourceStart": 557.0003666666667,
+          "sourceEnd": 557.3837,
+          "anchor": 557.3337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 19,
+          "sourceStart": 118.92996666666667,
+          "sourceEnd": 119.2633,
+          "anchor": 119.2133,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-010.mp4"
+        },
+        {
+          "slot": 20,
+          "sourceStart": 639.3837,
+          "sourceEnd": 639.7837,
+          "anchor": 639.7337,
+          "frames": 24,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 21,
+          "sourceStart": 255.89666666666668,
+          "sourceEnd": 256.23,
+          "anchor": 256.18,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 22,
+          "sourceStart": 69.86333333333334,
+          "sourceEnd": 70.23,
+          "anchor": 70.18,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 23,
+          "sourceStart": 559.2170333333332,
+          "sourceEnd": 559.5836999999999,
+          "anchor": 559.5337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 24,
+          "sourceStart": 374.94669999999996,
+          "sourceEnd": 375.2967,
+          "anchor": 375.2467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 25,
+          "sourceStart": 647.167,
+          "sourceEnd": 647.517,
+          "anchor": 647.467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 26,
+          "sourceStart": 70.58363333333334,
+          "sourceEnd": 70.9503,
+          "anchor": 70.9003,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 27,
+          "sourceStart": 301.36699999999996,
+          "sourceEnd": 301.717,
+          "anchor": 301.667,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 28,
+          "sourceStart": 562.9337,
+          "sourceEnd": 563.2837000000001,
+          "anchor": 563.2337,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 29,
+          "sourceStart": 146.43003333333334,
+          "sourceEnd": 146.79670000000002,
+          "anchor": 146.7467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 30,
+          "sourceStart": 653.2170333333332,
+          "sourceEnd": 653.5836999999999,
+          "anchor": 653.5337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 31,
+          "sourceStart": 75.68,
+          "sourceEnd": 76.03,
+          "anchor": 75.98,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 32,
+          "sourceStart": 71.33003333333333,
+          "sourceEnd": 71.69669999999999,
+          "anchor": 71.6467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-023.mp4"
+        },
+        {
+          "slot": 33,
+          "sourceStart": 578.5170333333333,
+          "sourceEnd": 578.8837,
+          "anchor": 578.8337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 34,
+          "sourceStart": 298.89666666666665,
+          "sourceEnd": 299.22999999999996,
+          "anchor": 299.18,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 35,
+          "sourceStart": 658.3170333333333,
+          "sourceEnd": 658.6836999999999,
+          "anchor": 658.6337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 36,
+          "sourceStart": 76.38000000000001,
+          "sourceEnd": 76.73,
+          "anchor": 76.68,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 37,
+          "sourceStart": 69.56333333333333,
+          "sourceEnd": 69.92999999999999,
+          "anchor": 69.88,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-012.mp4"
+        },
+        {
+          "slot": 38,
+          "sourceStart": 590.0503666666667,
+          "sourceEnd": 590.3837000000001,
+          "anchor": 590.3337,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 39,
+          "sourceStart": 517.9467000000001,
+          "sourceEnd": 518.2967000000001,
+          "anchor": 518.2467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 40,
+          "sourceStart": 663.6003666666667,
+          "sourceEnd": 663.9837,
+          "anchor": 663.9337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 41,
+          "sourceStart": 82.49666666666667,
+          "sourceEnd": 82.83,
+          "anchor": 82.78,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-021.mp4"
+        },
+        {
+          "slot": 42,
+          "sourceStart": 89.86696666666667,
+          "sourceEnd": 90.25030000000001,
+          "anchor": 90.2003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 43,
+          "sourceStart": 594.3003,
+          "sourceEnd": 594.6503,
+          "anchor": 594.6003,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 44,
+          "sourceStart": 182.3467,
+          "sourceEnd": 182.6967,
+          "anchor": 182.6467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 45,
+          "sourceStart": 687.8337,
+          "sourceEnd": 688.1837,
+          "anchor": 688.1337,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 46,
+          "sourceStart": 121.20036666666667,
+          "sourceEnd": 121.58370000000001,
+          "anchor": 121.5337,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 47,
+          "sourceStart": 563.7169666666667,
+          "sourceEnd": 564.0503000000001,
+          "anchor": 564.0003,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 48,
+          "sourceStart": 599.4170333333333,
+          "sourceEnd": 599.7837,
+          "anchor": 599.7337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 49,
+          "sourceStart": 113.2467,
+          "sourceEnd": 113.5967,
+          "anchor": 113.5467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-006.mp4"
+        },
+        {
+          "slot": 50,
+          "sourceStart": 693.6337000000001,
+          "sourceEnd": 693.9837000000001,
+          "anchor": 693.9337,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 51,
+          "sourceStart": 265.41703333333334,
+          "sourceEnd": 265.7837,
+          "anchor": 265.7337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 52,
+          "sourceStart": 558.4966333333333,
+          "sourceEnd": 558.8633,
+          "anchor": 558.8133,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 53,
+          "sourceStart": 603.7337,
+          "sourceEnd": 604.0837,
+          "anchor": 604.0337,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 54,
+          "sourceStart": 120.93003333333334,
+          "sourceEnd": 121.2967,
+          "anchor": 121.2467,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-010.mp4"
+        },
+        {
+          "slot": 55,
+          "sourceStart": 698.5836333333333,
+          "sourceEnd": 698.9503,
+          "anchor": 698.9003,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 56,
+          "sourceStart": 209.88003333333333,
+          "sourceEnd": 210.1967,
+          "anchor": 210.1467,
+          "frames": 19,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 57,
+          "sourceStart": 284.7336666666667,
+          "sourceEnd": 285.117,
+          "anchor": 285.067,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 58,
+          "sourceStart": 607.267,
+          "sourceEnd": 607.6170000000001,
+          "anchor": 607.567,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 59,
+          "sourceStart": 702.9836333333333,
+          "sourceEnd": 703.3503,
+          "anchor": 703.3003,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 60,
+          "sourceStart": 324.6467,
+          "sourceEnd": 324.99670000000003,
+          "anchor": 324.9467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 61,
+          "sourceStart": 335.8503666666666,
+          "sourceEnd": 336.18369999999993,
+          "anchor": 336.1337,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 62,
+          "sourceStart": 561.8669666666666,
+          "sourceEnd": 562.2502999999999,
+          "anchor": 562.2003,
+          "frames": 23,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 63,
+          "sourceStart": 611.8836333333333,
+          "sourceEnd": 612.2502999999999,
+          "anchor": 612.2003,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 64,
+          "sourceStart": 117.38000000000001,
+          "sourceEnd": 117.73,
+          "anchor": 117.68,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-021.mp4"
+        },
+        {
+          "slot": 65,
+          "sourceStart": 708.5503333333332,
+          "sourceEnd": 708.9169999999999,
+          "anchor": 708.867,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 66,
+          "sourceStart": 600.2800000000001,
+          "sourceEnd": 600.6300000000001,
+          "anchor": 600.58,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 67,
+          "sourceStart": 377.9337,
+          "sourceEnd": 378.2837,
+          "anchor": 378.2337,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 68,
+          "sourceStart": 615.8836333333333,
+          "sourceEnd": 616.2502999999999,
+          "anchor": 616.2003,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 69,
+          "sourceStart": 136.98,
+          "sourceEnd": 137.32999999999998,
+          "anchor": 137.28,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-006.mp4"
+        },
+        {
+          "slot": 70,
+          "sourceStart": 727.8170333333333,
+          "sourceEnd": 728.1836999999999,
+          "anchor": 728.1337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 71,
+          "sourceStart": 616.5337000000001,
+          "sourceEnd": 616.8837000000001,
+          "anchor": 616.8337,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 72,
+          "sourceStart": 388.3467,
+          "sourceEnd": 388.6967,
+          "anchor": 388.6467,
+          "frames": 21,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 73,
+          "sourceStart": 620.0170333333333,
+          "sourceEnd": 620.3837,
+          "anchor": 620.3337,
+          "frames": 22,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        },
+        {
+          "slot": 74,
+          "sourceStart": 367.62996666666663,
+          "sourceEnd": 367.96329999999995,
+          "anchor": 367.9133,
+          "frames": 20,
+          "kind": "combat",
+          "reuseAcrossVideos": false,
+          "file": "source-001.mp4"
+        },
+        {
+          "slot": 75,
+          "sourceStart": 733.3170333333334,
+          "sourceEnd": 733.7837000000001,
+          "anchor": 733.7337,
+          "frames": 28,
+          "kind": "combat",
+          "reuseAcrossVideos": true,
+          "file": "source-002.mp4"
+        }
+      ]
+    }
+  ]
+}
