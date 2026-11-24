@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Chad overlay.png",
+    "bytes": 132014,
+    "sha256": "2646ad6da33d3008929fa1e34116fa85a5b3ce9a48e90bc83ccdd3d4ebcff0ec"
+  },
+  {
+    "file": "Chad.png",
+    "bytes": 2944402,
+    "sha256": "f0bfcafeccc2c6e42814eec0fb87c1b62cd35921c5e892b8a381551f8bedc279"
+  },
+  {
+    "file": "Exit 12 percent.png",
+    "bytes": 13979,
+    "sha256": "2d6a3c7341c628ec2e2cf9b562bbf7d43568ba251befbd6b016f7ec2b3f92e48"
+  },
+  {
+    "file": "Exit 18 percent.png",
+    "bytes": 19432,
+    "sha256": "d9c30b04c4b974b2cfed4495c44f84ef5092eb64e75fa1756cd4dfa98d678551"
+  },
+  {
+    "file": "Exit 24 percent.png",
+    "bytes": 24799,
+    "sha256": "bf1b09b59ddeb736092b316c4ab68f45d70028846c30247d997c86fea87d0c29"
+  },
+  {
+    "file": "Exit 3.55 percent.png",
+    "bytes": 5938,
+    "sha256": "0631f8d8bff5fa05f2cfc5426898a20d640ffeb0a88772b914150e4e44da22e5"
+  },
+  {
+    "file": "Exit 30 percent.png",
+    "bytes": 29821,
+    "sha256": "7bda64e14bca1dd80efd308b266ea65f7d432e304cbc083275ecf8d96984ac67"
+  },
+  {
+    "file": "Exit 37 percent.png",
+    "bytes": 35399,
+    "sha256": "e5abb7c6e8487125a9a799053689094a982c539ad4f3c8767d4d504e7927d4e0"
+  },
+  {
+    "file": "Exit 7 percent.png",
+    "bytes": 9398,
+    "sha256": "c1189bad31f2bb5518afc23c3e4489f7b006e834bb9a6ea89be54078e42ae0b7"
+  },
+  {
+    "file": "Exit.png",
+    "bytes": 72986,
+    "sha256": "52ed7bddd93042986030fdef9fd446507fb200252bc7814c15654817a7e25330"
+  },
+  {
+    "file": "vertical-h264.epr",
+    "bytes": 321581,
+    "sha256": "a5096d9aa6cdd0bad45d9a40fc47fcbb67b528b18b243b0a6a5122d2e5bfe05a"
+  }
+]
