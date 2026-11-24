@@ -2,7 +2,9 @@
 
 ## Plan cheaply
 
-Read SKILL and editing rules; load this owner's profile/ledger, not the entire chat. Resolve music/source preferences first. Probe tools, disk space, actual media metadata and the approved assets. Download/inspect only enough material; use previews and sparse contact sheets when possible. The old Drive inventory durations were sometimes misassigned; actual media probe is authoritative. Do not claim “watched all 32 recordings” after seeing thumbnails.
+Run the mandatory session-archive/bootstrap.py and read its complete original historical context in each new coordinator chat, then SKILL/current editing rules and this owner's live profile/ledger. Verify bootstrap on subsequent invocations; reread lost history after compaction. Workers use the coordinator's receipt/briefing instead of duplicating full history. Resolve music/source preferences first. Probe tools, disk space, actual media metadata and the approved assets. Download/inspect only enough material; use previews and sparse contact sheets when possible. The old Drive inventory durations were sometimes misassigned; actual media probe is authoritative. Do not claim “watched all 32 recordings” after seeing thumbnails.
+
+Use cache-and-downloads.md before transfers: search existing owner/configured/tool/model caches, verify matching candidates and free space, then fetch only missing bytes. Create/track temporary folders through cache_tools.py. The «завершаем чат» cleanup route skips bootstrap/intake and removes only verified disposable registered files after saving persistent state; it does not uninstall the skill or erase releases.
 
 Give a fresh worker source review or bounded music analysis and have it write a compact manifest. At most two concurrent workers and two launches for routine runs; workers never spawn workers. Keep one owner for all release writes and Premiere. Agent concurrency is distinct from up to two independent FFmpeg processes. Logs/images stay on disk, and workers return counts, paths, risks and targeted evidence. No full-history forks by default. Reuse cached analysis when unchanged; a new song needs its own phase/phrase analysis.
 
@@ -32,6 +34,6 @@ No repetitive broad reruns after unchanged checks pass. Temporary raw downloads 
 
 ## Limits and deliverables
 
-The skill doesn't provide the original user's Google Drive access, video/music rights, personal screenshots, private chats or hidden reasoning. Public frame maps record frame-to-source timing rather than shipping every decoded frame. A local preservation archive can retain raw operational evidence separately. This is enough to transfer rules and mechanics; it cannot guarantee the same creative outcome or a fixed subscription usage percentage.
+The owner-authorized public session archive includes saved screenshots, operational logs, project snapshots, personal paths and source links. It does not grant another user rights/access to those recordings or include raw video/audio, unsaved private chats or hidden reasoning. Bootstrap always verifies/materializes it; the coordinator always reads the complete saved context in a new chat. Public frame maps record frame-to-source timing rather than shipping every decoded frame. Saved evidence transfers rules and mechanics; it cannot guarantee the same creative outcome, identical hidden model state or a fixed subscription usage percentage.
 
 Deliver MP4, native prproj, Media, a per-shot source ledger and concise release notes. Name MAIN plainly and link both deliverables. Do not auto-publish to TikTok or modify the public skill repository when merely asked for another video. New accepted preferences update local rules; promote to the shared skill only on explicit request.
