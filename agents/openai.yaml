@@ -1,0 +1,6 @@
+interface:
+  display_name: "Standoff TikTok Editor"
+  short_description: "Плотный монтаж Standoff 2 и проект Premiere Pro"
+  default_prompt: "Используй $standoff-tiktok-editor для нового ролика; уточни только недостающие музыку и предпочтения по исходникам."
+policy:
+  allow_implicit_invocation: true
